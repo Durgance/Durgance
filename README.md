@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Durgance Gaur</h1>
-<h3 align="center">A passionate Data Science Enthu from India (Google Certified TensorFlow Developer)</h3>
+<h1 align="center">Hi 👋, I'm Durgance Gaur <img src= "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/56236523" width = 100></h1> 
+<h3 align="center">A passionate Data Science Student from India</h3>
+
+<img src= "https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/56236523" align = "center">
 
 - 🌱 I’m currently learning **Java, Advanced TensorFlow**
 
